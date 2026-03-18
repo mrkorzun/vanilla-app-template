@@ -5,7 +5,7 @@ dodatkowe funkcje [zapoznaj się z dokumentacją](https://vitejs.dev/).
 
 ## Tworzenie repozytorium za pomocą szablonu
 
-Użyj tego repozytorium GoIT jako szablonu, aby utworzyć repozytorium
+Użyj tego repozytorium jako szablonu, aby utworzyć repozytorium
 dla swojego projektu. By to zrobić, kliknij przycisk `«Use this template»` і
 wybierz opcję `«Create a new repository»`, jak pokazano na obrazku.
 
@@ -91,7 +91,7 @@ Po pewnym czasie, zwykle kilku minutach, strona na żywo może być wyświetlona
 pod adresem określonym w zakładce `Settings` > `Pages` w ustawieniach repozytorium. 
 Na przykład, oto link do wersji live dla tego repozytorium:
 
-[https://goitacademy.github.io/vanilla-app-template/](https://goitacademy.github.io/vanilla-app-template/).
+[https://mrkorzun.github.io/vanilla-app-template/](https://mrkorzun.github.io/vanilla-app-template/).
 
 Jeśli widzisz pustą stronę, upewnij się, że w zakładce `Console` nie ma
 błędów związanych z nieprawidłowymi ścieżkami do plików CSS i JS projektu

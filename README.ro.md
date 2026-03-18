@@ -5,7 +5,7 @@ Acest proiect a fost creat cu ajutorul Vite. Pentru o mai bună cunoaștere
 
 ## Crearea repository-ului pe baza unui template
 
-Utilizează acest repository al organizației GoIT ca model pentru crearea unui 
+Utilizează acest repository al organizației ca model pentru crearea unui 
 repository pentru proiectul personal. Pentru a face acest lucru, dă click pe 
 `"Use this template"` și selectează opțiunea `"Create a new repository"`, conform 
 imaginii.
@@ -87,7 +87,7 @@ iconiță, iar în fereastra derulantă accesează link-ul `Details`.
 După o perioadă de timp, de obicei câteva minute, pagina live poate fi vizualizată 
 la adresa specificată în secțiunea `Settings` > `Pages` din setările repository-ului. 
 De exemplu: iată link-ul către versiunea live pentru acest repository
-[https://goitacademy.github.io/vanilla-app-template/](https://goitacademy.github.io/vanilla-app-template/).
+[https://mrkorzun.github.io/vanilla-app-template/](https://mrkorzun.github.io/vanilla-app-template/).
 
 Dacă se deschide o pagină goală, verifică dacă nu sunt erori în fila `Console`, 
 legate de căile de acces incorecte către fișierele CSS și JS ale proiectului 
